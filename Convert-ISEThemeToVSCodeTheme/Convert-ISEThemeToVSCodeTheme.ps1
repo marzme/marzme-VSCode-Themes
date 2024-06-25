@@ -276,16 +276,16 @@ foreach ($ISEThemeFilepath in $ISEThemeFiles) {
     "colors": {
         "titleBar.activeBackground": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColor)",
         "titleBar.activeForeground": "#$($ISEThemeColourValuePairs.OperatorDarker)",
-		"tab.activeBackground": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorDarker)",
-		"tab.activeForeground": "#$($ISEThemeColourValuePairs.OperatorLighter)",
-		"tab.inactiveBackground": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)",
-		"tab.inactiveForeground": "#$($ISEThemeColourValuePairs.OperatorDarker)",
-		"editor.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColor)",
+        "tab.activeBackground": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorDarker)",
+        "tab.activeForeground": "#$($ISEThemeColourValuePairs.OperatorLighter)",
+        "tab.inactiveBackground": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)",
+        "tab.inactiveForeground": "#$($ISEThemeColourValuePairs.OperatorDarker)",
+        "editor.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColor)",
         "editor.foreground": "#$($ISEThemeColourValuePairs.Operator)",
-		"activityBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)",
+        "activityBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)",
         "activityBar.foreground": "#$($ISEThemeColourValuePairs.Operator)",
-		"sideBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorDarker)",
-		"statusBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)"
+        "sideBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorDarker)",
+        "statusBar.background": "#$($ISEThemeColourValuePairs.ScriptPaneBackgroundColorLighter)"
     }
 }
 "@
