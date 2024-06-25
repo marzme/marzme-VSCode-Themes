@@ -1,0 +1,234 @@
+{
+	"name": "Calm Dusk",
+	"tokenColors": [
+		{
+			"name": "Comments",
+			"scope": [
+				"comment"
+			],
+			"settings": {
+				"foreground": "#45494d"
+			}
+		},
+		{
+			"name": "Comments: Preprocessor",
+			"scope": "comment.block.preprocessor",
+			"settings": {
+				"fontStyle": "",
+				"foreground": "#282828"
+			}
+		},
+		{
+			"name": "Comments: Documentation",
+			"scope": [
+				"comment.documentation",
+				"comment.block.documentation"
+			],
+			"settings": {
+				"foreground": "#282828"
+			}
+		},
+		{
+			"name": "Invalid - Deprecated",
+			"scope": "invalid.deprecated",
+			"settings": {
+				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Invalid - Illegal",
+			"scope": "invalid.illegal",
+			"settings": {
+				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Keywords",
+			"scope": [
+				"keyword.other",
+				"keyword.control",
+				"punctuation.section.group",
+				"punctuation.section.braces"
+			],
+			"settings": {
+				"foreground": "#D6A429"
+			}
+		},
+		{
+			"name": "Types",
+			"scope": [
+				"storage.type"
+			],
+			"settings": {
+				"foreground": "#E06C75"
+			}
+		},
+		{
+			"name": "Language Constants",
+			"scope": [
+				"constant.language",
+				"support.constant",
+				"variable.language"
+			],
+			"settings": {
+				"foreground": "#1C81C8"
+			}
+		},
+		{
+			"name": "Variables",
+			"scope": [
+				"variable",
+				"support.variable",
+				"punctuation.definition.variable"
+			],
+			"settings": {
+				"foreground": "#1C81C8"
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": [
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#AAAAAA"
+
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": [
+				"variable.parameter"
+			],
+			"settings": {
+				"foreground": "#AAAAAA"
+
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": [
+				"keyword.operator"
+			],
+			"settings": {
+				"foreground": "#AAAAAA"
+
+			}
+		},
+		{
+			"name": "Tag attribute",
+			"scope": [
+				"meta"
+			],
+			"settings": {
+				"foreground": "#AAAAAA"
+
+			}
+		},
+		{
+			"name": "Functions",
+			"scope": [
+				"entity.name.function"
+			],
+			"settings": {
+				"foreground": "#e5b456"
+			}
+		},
+		{
+			"name": "Functions2",
+			"scope": [
+				"support.function"
+			],
+			"settings": {
+				"foreground": "#be5dcdd8"
+			}
+		},
+		{
+			"name": "Classes",
+			"scope": [
+				"entity.name.tag",
+				"entity.name.type",
+				"entity.other.inherited-class",
+				"support.class"
+			],
+			"settings": {
+				"foreground": "#CC9A1F"
+			}
+		},
+		{
+			"name": "Exceptions",
+			"scope": "entity.name.exception",
+			"settings": {
+				"foreground": "#660000"
+			}
+		},
+		{
+			"name": "Sections",
+			"scope": "entity.name.section",
+			"settings": {
+			}
+		},
+		{
+			"name": "Numbers, Characters",
+			"scope": [
+				"constant.numeric",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#DCDCDC"
+			}
+		},
+		{
+			"name": "User-defined constant",
+			"scope": [
+				"constant.character",
+				"constant.other"
+			],
+			"settings": {
+				"foreground": "#f300ef"
+			}
+		},
+		{
+			"name": "Strings",
+			"scope": "string",
+			"settings": {
+				"foreground": "#75AF65"
+			}
+		},
+		{
+			"name": "Strings: Escape Sequences",
+			"scope": "constant.character.escape",
+			"settings": {
+				"foreground": "#75AF65"
+			}
+		},
+		{
+			"name": "Strings: Regular Expressions",
+			"scope": "string.regexp",
+			"settings": {
+				"foreground": "#75AF65"
+			}
+		},
+		{
+			"name": "Strings: Symbols",
+			"scope": "constant.other.symbol",
+			"settings": {
+				"foreground": "#75AF65"
+			}
+		}
+	],
+	"colors": {
+		"titleBar.activeBackground": "#0D1117",
+        //"titleBar.activeForeground": "#839496",
+		"tab.activeBackground": "#21252B",
+        //"tab.activeForeground": "#ECECEC",
+        "tab.inactiveBackground": "#35393F",
+        //"tab.inactiveForeground": "#ABABAB",
+        "editor.background": "#21252B",
+        "editor.foreground": "#AAAAAA",
+		"sideBar.background": "#171B21",
+        "activityBar.background": "#21252B",
+        // "activityBar.foreground": "#839496",
+        "statusBar.background": "#171B21"
+	}
+}

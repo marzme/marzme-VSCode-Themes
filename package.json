@@ -39,6 +39,11 @@
         "path": "./themes/Black-Pastel-color-theme.json"
       },
       {
+        "label": "Calm Dusk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Calm-Dusk-color-theme.json"
+      },
+      {
         "label": "DependonME",
         "uiTheme": "vs-dark",
         "path": "./themes/DependonME-color-theme.json"
@@ -52,6 +57,11 @@
         "label": "Flare v1",
         "uiTheme": "vs-dark",
         "path": "./themes/Flare-v1-color-theme.json"
+      },
+      {
+        "label": "Fruit Candy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fruit-Candy-color-theme.json"
       },
       {
         "label": "Gedit Original Oblivion",
@@ -177,6 +187,16 @@
         "label": "Vim Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/Vim-Dark-color-theme.json"
+      },
+      {
+        "label": "Vim Dark Hard",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vim-Dark-Hard-color-theme.json"
+      },
+      {
+        "label": "Vim Deep Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vim-Deep-Dark-color-theme.json"
       },
       {
         "label": "Vim Dessert",

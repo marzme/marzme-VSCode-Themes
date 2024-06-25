@@ -37,6 +37,10 @@ Most of these themes were converted from the ones on my [PowerShell_ISE_Themes](
 ![Alt text](Example_Screenshots/Black-Pastel.png?raw=true)
 <hr>
 
+#### Calm Dusk:
+![Alt text](Example_Screenshots/Calm-Dusk.png?raw=true)
+<hr>
+
 #### DependOnMe:
 ![Alt text](Example_Screenshots/DependOnMe.png?raw=true)
 <hr>
@@ -47,6 +51,10 @@ Most of these themes were converted from the ones on my [PowerShell_ISE_Themes](
 
 #### Flare v1:
 ![Alt text](Example_Screenshots/Flare-v1.png?raw=true)
+<hr>
+
+#### Fruit Candy:
+![Alt text](Example_Screenshots/Fruit-Candy.png?raw=true)
 <hr>
 
 #### Gedit Original Oblivion:
@@ -147,6 +155,14 @@ Most of these themes were converted from the ones on my [PowerShell_ISE_Themes](
 
 #### Vim Dark:
 ![Alt text](Example_Screenshots/Vim-Dark.png?raw=true)
+<hr>
+
+#### Vim Dark Hard:
+![Alt text](Example_Screenshots/Vim-Dark-Hard.png?raw=true)
+<hr>
+
+#### Vim Deep Dark:
+![Alt text](Example_Screenshots/Vim-Deep-Dark.png?raw=true)
 <hr>
 
 #### Vim Dessert:
