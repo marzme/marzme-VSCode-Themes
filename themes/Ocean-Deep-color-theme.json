@@ -1,0 +1,208 @@
+﻿{
+    "name": "Ocean Deep",
+    "tokenColors": [
+        {
+            "name": "Comments",
+            "scope": [
+                "comment"
+            ],
+            "settings": {
+                "foreground": "#80A0B0"
+            }
+        },
+        {
+            "name": "Comments: Preprocessor",
+            "scope": "comment.block.preprocessor",
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#103040"
+            }
+        },
+        {
+            "name": "Comments: Documentation",
+            "scope": [
+                "comment.documentation",
+                "comment.block.documentation"
+            ],
+            "settings": {
+                "foreground": "#103040"
+            }
+        },
+        {
+            "name": "Invalid - Deprecated",
+            "scope": "invalid.deprecated",
+            "settings": {
+                "foreground": "#FF8C00"
+            }
+        },
+        {
+            "name": "Invalid - Illegal",
+            "scope": "invalid.illegal",
+            "settings": {
+                "foreground": "#FF8C00"
+            }
+        },
+        {
+            "name": "Keywords",
+            "scope": [
+                "keyword.other",
+                "keyword.control",
+                "punctuation.section.group",
+                "punctuation.section.braces"
+            ],
+            "settings": {
+                "foreground": "#AC96F8"
+            }
+        },
+        {
+            "name": "Types",
+            "scope": [
+                "storage.type"
+            ],
+            "settings": {
+                "foreground": "#AC96F8"
+            }
+        },
+        {
+            "name": "Language Constants",
+            "scope": [
+                "constant.language",
+                "support.constant",
+                "variable.language"
+            ],
+            "settings": {
+                "foreground": "#79ABFF"
+            }
+        },
+        {
+            "name": "Variables",
+            "scope": [
+                "variable",
+                "support.variable",
+                "punctuation.definition.variable"
+            ],
+            "settings": {
+                "foreground": "#79ABFF"
+            }
+        },
+        {
+            "name": "Tag attribute",
+            "scope": [
+                "entity.other.attribute-name",
+                "variable.parameter",
+                "keyword.operator",
+                "meta"
+            ],
+            "settings": {
+                "fontStyle": "",
+                "foreground": "#D0D0D0"
+
+            }
+        },
+        {
+            "name": "Functions",
+            "scope": [
+                "entity.name.function"
+            ],
+            "settings": {
+                "foreground": "#00FFFF"
+            }
+        },
+        {
+            "name": "Functions2",
+            "scope": [
+                "support.function"
+            ],
+            "settings": {
+                "foreground": "#80A0B0"
+            }
+        },
+        {
+            "name": "Classes",
+            "scope": [
+                "entity.name.tag",
+                "entity.name.type",
+                "entity.other.inherited-class",
+                "support.class"
+            ],
+            "settings": {
+                "foreground": "#AC96F8"
+            }
+        },
+        {
+            "name": "Exceptions",
+            "scope": "entity.name.exception",
+            "settings": {
+                "foreground": "#FF0000"
+            }
+        },
+        {
+            "name": "Sections",
+            "scope": "entity.name.section",
+            "settings": {
+            }
+        },
+        {
+            "name": "Numbers, Characters",
+            "scope": [
+                "constant.numeric",
+                "constant"
+            ],
+            "settings": {
+                "foreground": "#00FFFF"
+            }
+        },
+        {
+            "name": "User-defined constant",
+            "scope": [
+                "constant.character",
+                "constant.other"
+            ],
+            "settings": {
+                "foreground": "#AC96F8"
+            }
+        },
+        {
+            "name": "Strings",
+            "scope": "string",
+            "settings": {
+                "foreground": "#00E5EE"
+            }
+        },
+        {
+            "name": "Strings: Escape Sequences",
+            "scope": "constant.character.escape",
+            "settings": {
+                "foreground": "#00E5EE"
+            }
+        },
+        {
+            "name": "Strings: Regular Expressions",
+            "scope": "string.regexp",
+            "settings": {
+                "foreground": "#00E5EE"
+            }
+        },
+        {
+            "name": "Strings: Symbols",
+            "scope": "constant.other.symbol",
+            "settings": {
+                "foreground": "#00E5EE"
+            }
+        }
+    ],
+    "colors": {
+        "titleBar.activeBackground": "#103040",
+        "titleBar.activeForeground": "#BCBCBC",
+"tab.activeBackground": "#001C2C",
+"tab.activeForeground": "#E4E4E4",
+"tab.inactiveBackground": "#244454",
+"tab.inactiveForeground": "#BCBCBC",
+"editor.background": "#103040",
+        "editor.foreground": "#D0D0D0",
+"activityBar.background": "#244454",
+        "activityBar.foreground": "#D0D0D0",
+"sideBar.background": "#001C2C",
+"statusBar.background": "#244454"
+    }
+}

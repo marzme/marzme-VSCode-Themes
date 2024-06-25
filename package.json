@@ -1,0 +1,203 @@
+{
+  "name": "marzme-vscode-themes",
+  "displayName": "marzme VSCode Themes",
+  "description": "A collection of themes for VS Code.",
+  "version": "0.0.1",
+  "publisher": "marzme",
+  "icon": "themes_icon.png",
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ambient",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ambient-color-theme.json"
+      },
+      {
+        "label": "Ambients",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ambients-color-theme.json"
+      },
+      {
+        "label": "Aquatic",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Aquatic-color-theme.json"
+      },
+      {
+        "label": "Base16 Tomorrow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Base16-Tomorrow-color-theme.json"
+      },
+      {
+        "label": "Black Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Black-Pastel-color-theme.json"
+      },
+      {
+        "label": "DependonME",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DependonME-color-theme.json"
+      },
+      {
+        "label": "Dracula JetBrains",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dracula-JetBrains-color-theme.json"
+      },
+      {
+        "label": "Flare v1",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Flare-v1-color-theme.json"
+      },
+      {
+        "label": "Gedit Original Oblivion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gedit-Original-Oblivion-color-theme.json"
+      },
+      {
+        "label": "Havenjark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Havenjark-color-theme.json"
+      },
+      {
+        "label": "Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monokai-color-theme.json"
+      },
+      {
+        "label": "Navy Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Navy-Ocean-color-theme.json"
+      },
+      {
+        "label": "Nightvale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightvale-color-theme.json"
+      },
+      {
+        "label": "Notepad++ Like",
+        "uiTheme": "vs",
+        "path": "./themes/Notepad++-Like-color-theme.json"
+      },
+      {
+        "label": "Oblivion",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Oblivion-color-theme.json"
+      },
+      {
+        "label": "Obsidian",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Obsidian-color-theme.json"
+      },
+      {
+        "label": "Ocean Deep",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Ocean-Deep-color-theme.json"
+      },
+      {
+        "label": "OneDark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OneDark-Pro-color-theme.json"
+      },
+      {
+        "label": "Paper Rose",
+        "uiTheme": "vs",
+        "path": "./themes/Paper-Rose-color-theme.json"
+      },
+      {
+        "label": "Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Pastel-color-theme.json"
+      },
+      {
+        "label": "Placidity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Placidity-color-theme.json"
+      },
+      {
+        "label": "Plastic Code Wrap",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Plastic-Code-Wrap-color-theme.json"
+      },
+      {
+        "label": "Python Idle Tango",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Python-Idle-Tango-color-theme.json"
+      },
+      {
+        "label": "Railscast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Railscast-color-theme.json"
+      },
+      {
+        "label": "RecognEyes",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RecognEyes-color-theme.json"
+      },
+      {
+        "label": "Retta",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Retta-color-theme.json"
+      },
+      {
+        "label": "Roboticket",
+        "uiTheme": "vs",
+        "path": "./themes/Roboticket-color-theme.json"
+      },
+      {
+        "label": "Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Solarized-color-theme.json"
+      },
+      {
+        "label": "Space Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Space-Gray-color-theme.json"
+      },
+      {
+        "label": "Sublime Text 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Sublime-Text-2-color-theme.json"
+      },
+      {
+        "label": "Tomorrow Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Tomorrow-Night-color-theme.json"
+      },
+      {
+        "label": "Vibrant Ink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vibrant-Ink-color-theme.json"
+      },
+      {
+        "label": "Vim Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vim-Dark-color-theme.json"
+      },
+      {
+        "label": "Vim Dessert",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vim-Dessert-color-theme.json"
+      },
+      {
+        "label": "VS2013 Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VS2013-Dark-color-theme.json"
+      },
+      {
+        "label": "Wombat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Wombat-color-theme.json"
+      },
+      {
+        "label": "Zenburn",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zenburn-color-theme.json"
+      }
+    ]
+  }
+}
