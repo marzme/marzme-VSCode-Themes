@@ -4,7 +4,7 @@ A Visual Studio Code extension which contains a collection of themes.
 <br>
 
 ## How to Use
-Download the entire repo, unzip it, and store it in "C:\Users\USERNAME\\.vscode\extensions" in a folder called marzme-vscode-themes. Then reload VS Code, go to Extensions in the sidebar, right-click on "marzme VSCode Themes" and click "Set Color Theme".
+Clone the repo directly to this folder: "C:\Users\USERNAME\\.vscode\extensions\marzme-VSCode-Themes" (or download the entire repo, unzip it, and copy it to that folder). Then reload VS Code, go to Extensions in the sidebar, right-click on "marzme VSCode Themes" and click "Set Color Theme".
 
 I might eventually put this up on the [VS Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) as a proper extension when I have the time and interest.
 
