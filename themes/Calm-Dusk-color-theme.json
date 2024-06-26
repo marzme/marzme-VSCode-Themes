@@ -88,25 +88,17 @@
 		{
 			"name": "Tag attribute",
 			"scope": [
-				"entity.other.attribute-name"
-			],
-			"settings": {
-				"foreground": "#AAAAAA"
-
-			}
-		},
-		{
-			"name": "Tag attribute",
-			"scope": [
+				"entity.other.attribute-name",
+				"support",
 				"variable.parameter"
 			],
 			"settings": {
-				"foreground": "#AAAAAA"
+				"foreground": "#E06C75"
 
 			}
 		},
 		{
-			"name": "Tag attribute",
+			"name": "Tag attribute2",
 			"scope": [
 				"keyword.operator",
 				"meta"
@@ -119,6 +111,7 @@
 		{
 			"name": "Functions",
 			"scope": [
+				"support.type.property-name",
 				"entity.name.function"
 			],
 			"settings": {
@@ -181,28 +174,11 @@
 		},
 		{
 			"name": "Strings",
-			"scope": "string",
-			"settings": {
-				"foreground": "#75AF65"
-			}
-		},
-		{
-			"name": "Strings: Escape Sequences",
-			"scope": "constant.character.escape",
-			"settings": {
-				"foreground": "#75AF65"
-			}
-		},
-		{
-			"name": "Strings: Regular Expressions",
-			"scope": "string.regexp",
-			"settings": {
-				"foreground": "#75AF65"
-			}
-		},
-		{
-			"name": "Strings: Symbols",
-			"scope": "constant.other.symbol",
+			"scope": [
+				"string",
+				"constant.character.escape",
+				"constant.other.symbol"
+			],
 			"settings": {
 				"foreground": "#75AF65"
 			}
@@ -222,6 +198,7 @@
 		"sideBar.background": "#171B21",
         "activityBar.background": "#21252B",
         // "activityBar.foreground": "#839496",
-        "statusBar.background": "#171B21"
+        "statusBar.background": "#171B21",
+		"gitDecoration.modifiedResourceForeground": "#5AC6B4"
 	}
 }
