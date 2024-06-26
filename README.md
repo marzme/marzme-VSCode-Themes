@@ -6,13 +6,13 @@ A Visual Studio Code extension which contains a collection of themes.
 ## How to Use
 Download the entire repo, unzip it, and store it in "C:\Users\USERNAME\\.vscode\extensions" in a folder called marzme-vscode-themes. Then reload VS Code, go to Extensions in the sidebar, right-click on "marzme VSCode Themes" and click "Set Color Theme".
 
-At some point I'll probably put this up on the [VS Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) as a proper extension when I have time.
+I might eventually put this up on the [VS Code Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=Themes&sortBy=Installs) as a proper extension when I have the time and interest.
 
 <br>
 
 
 ## Original Sources
-Most of these themes were converted from the ones on my [PowerShell_ISE_Themes](https://github.com/marzme/PowerShell_ISE_Themes) repo, using the PowerShell script in the Convert-ISEThemeToVSCodeTheme folder, so please refer to that ISE Themes repo for details crediting the origin of the themes.
+Most of these themes were converted from the ones on my [PowerShell_ISE_Themes](https://github.com/marzme/PowerShell_ISE_Themes) repo, using the PowerShell script in the [Convert-ISEThemeToVSCodeTheme folder](https://github.com/marzme/marzme-VSCode-Themes/tree/master/Convert-ISEThemeToVSCodeTheme), so please refer to that ISE Themes repo for details crediting the original sources of these themes.
 
 <br>
 

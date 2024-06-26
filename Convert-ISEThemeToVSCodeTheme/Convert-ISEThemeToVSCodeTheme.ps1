@@ -1,7 +1,7 @@
-# The below PowerShell commands can be used to convert ps1xml ISE theme files into VS Code JSON theme files
+# The below script can be used to create VS Code JSON theme files based on ps1xml ISE theme files.
+# All that's required is to specify the path to where the ps1xml ISE theme files are stored:
+$ISEThemesRootPath = "C:\PathToPS1XmlFiles"
 
-# Define the path to where the ps1xml ISE theme files are stored
-$ISEThemesRootPath = "C:\Administrative"
 
 # Get the full file path for each ps1xml ISE theme file
 $ISEThemeFiles = Get-ChildItem -Path "$ISEThemesRootPath\*.ps1xml" | Select Fullname
