@@ -7,7 +7,7 @@
 				"comment"
 			],
 			"settings": {
-				"foreground": "#45494d"
+				"foreground": "#45494D"
 			}
 		},
 		{
@@ -108,16 +108,7 @@
 		{
 			"name": "Tag attribute",
 			"scope": [
-				"keyword.operator"
-			],
-			"settings": {
-				"foreground": "#AAAAAA"
-
-			}
-		},
-		{
-			"name": "Tag attribute",
-			"scope": [
+				"keyword.operator",
 				"meta"
 			],
 			"settings": {
@@ -131,7 +122,7 @@
 				"entity.name.function"
 			],
 			"settings": {
-				"foreground": "#e5b456"
+				"foreground": "#E5B456"
 			}
 		},
 		{
@@ -140,7 +131,7 @@
 				"support.function"
 			],
 			"settings": {
-				"foreground": "#947acd"
+				"foreground": "#947ACD"
 			}
 		},
 		{
@@ -185,7 +176,7 @@
 				"constant.other"
 			],
 			"settings": {
-				"foreground": "#f300ef"
+				"foreground": "#AAAAAA"
 			}
 		},
 		{
@@ -220,12 +211,14 @@
 	"colors": {
 		"titleBar.activeBackground": "#0D1117",
         //"titleBar.activeForeground": "#839496",
+		"editorGroupHeader.tabsBackground": "#171B21",
 		"tab.activeBackground": "#21252B",
         //"tab.activeForeground": "#ECECEC",
         "tab.inactiveBackground": "#35393F",
         //"tab.inactiveForeground": "#ABABAB",
         "editor.background": "#21252B",
         "editor.foreground": "#AAAAAA",
+		"editor.selectionBackground": "#45494d82",
 		"sideBar.background": "#171B21",
         "activityBar.background": "#21252B",
         // "activityBar.foreground": "#839496",
