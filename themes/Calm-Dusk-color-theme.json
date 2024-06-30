@@ -15,7 +15,7 @@
 			"scope": "comment.block.preprocessor",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#282828"
+				"foreground": "#45494D"
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 				"comment.block.documentation"
 			],
 			"settings": {
-				"foreground": "#282828"
+				"foreground": "#45494D"
 			}
 		},
 		{
